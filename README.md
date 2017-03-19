@@ -1,5 +1,5 @@
 # Movie Trailer
-This is my Capstone project performed for the Machine Learning nanodegree at Udacity.  The purpose of this work is to find a regression line to represent the body's production of glucose throughout the day.  This will give a diabetic the ability to find an close fit basal insulin rate to counteract normal body glucose production.
+In this project you will build a Movie Trailer Website where users can see my favorite movies and watch the trailers. I wrote server side code to store a list of movie titles, box art, poster images, and movie trailer URLs. The data will then be expressed on the web page and allow users to review the movies and watch the trailers.
 
 ### Install
 
